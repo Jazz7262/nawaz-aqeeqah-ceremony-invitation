@@ -19,10 +19,12 @@ function Slide() {
                         data-aos-offset="300"
                         data-aos-delay="50"
                     >
-                        <h4>WE ARE ARRANGING OUR DAUGHTER'S WEDDING</h4>
+                        <h4>WE ARE NAMING OUR DAUGHTER 
+                        <br/>
+                        AND PERFORMAING AQEEQA </h4>
                         <h1>Save Our Date</h1>
                         <p>
-                            05<sup>th</sup> November, 2023
+                            09<sup>th</sup> December, 2023
                         </p>
                     </div>
                 </div>

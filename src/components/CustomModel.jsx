@@ -71,7 +71,7 @@ function CustomModel1() {
         <div className="card-inner-wrapper">
           <div data-aos="zoom-out" className="card-content">
             <h1 className="card-title m-0">
-              Turrumturri Family's Wedding Ceremony Invitation
+              Aqeeqa and Naming Ceremony Invitation
             </h1>
             <img
               src="../assets/images/line-divider.png"
@@ -79,7 +79,7 @@ function CustomModel1() {
               className="line-divider mb-4"
             />
             <h4 className="from">From:</h4>
-            <h4 className="invitor-name mb-4">Mr. & Mrs. T. Basha</h4>
+            <h4 className="invitor-name mb-4">Mr. & Mrs. T. Ghouse Moinuddin</h4>
             <button
               className="btn btn-primary open-button"
               onClick={handleClick}

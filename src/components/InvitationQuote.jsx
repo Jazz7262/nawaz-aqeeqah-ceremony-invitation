@@ -10,8 +10,8 @@ function InvitationQuote() {
                 <h3>
                     We cordially invite you to honour us with your esteemed
                     presence and blessings with Family and Friends on the
-                    auspicous occasion of the Wedding Ceremony of our beloved
-                    Daughter
+                    auspicous occasion of the Naming and Aqeeqa Ceremony of our second
+                    Daughter and Bisimilaah-Khani Ceremonmy of Elder Daughter
                 </h3>
             </div>
         </section>

@@ -13,4 +13,4 @@ This project is made for my Business Idea [Ziya Invites](https://ziya-invites.ne
 
 # This is an Wedding Ceremony Invitation Card
 
-Digital Invitation Card for Ziya's sister Wedding Ceremony developed by Ziya Invites
+Digital Invitation Card for Aqeeqa and Naming Ceremony of Ghouse's Daughter developed by Ziya Invites

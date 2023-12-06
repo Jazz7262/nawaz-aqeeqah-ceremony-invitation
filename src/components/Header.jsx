@@ -30,10 +30,10 @@ function Header() {
                 Quadri, Al-Hamavi Rahamatullaahi Alaih, Adoni,
             </h4>
 
-            <h4 className="mt-4">
+            {/* <h4 className="mt-4">
                 A'alaa Hazrath Mujaddid-e-Deen wa Millat Ash-Shah Imaam Ahmad
                 Raza Khan Alaihi Rahmatu wa Rizwaan, Bareilly Shareef.
-            </h4>
+            </h4> */}
 
             {/* <h4 className="mt-4">
                 Sayyid Sarkar Valiyullah Hussaini Al-Maroof Hazrath Mastan Vali
