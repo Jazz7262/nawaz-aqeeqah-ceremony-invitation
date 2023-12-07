@@ -94,7 +94,7 @@ function Couple() {
                 <div className="img-wrapper">
                   <img
                     className="couple-img"
-                    src="../assets/images/kinza.png"
+                    src="../assets/images/kinza-1.png"
                     alt="couple_img"
                   />
                 </div>
@@ -103,7 +103,7 @@ function Couple() {
                 <div className="img-wrapper">
                   <img
                     className="couple-img"
-                    src="../assets/images/kinza.png"
+                    src="../assets/images/kinza-2.png"
                     alt="couple_img"
                   />
                 </div>
@@ -112,7 +112,7 @@ function Couple() {
                 <div className="img-wrapper">
                   <img
                     className="couple-img"
-                    src="../assets/images/kinza.png"
+                    src="../assets/images/kinza-3.png"
                     alt="couple_img"
                   />
                 </div>
@@ -193,7 +193,7 @@ function Couple() {
               D/O <strong>Mr. & Mrs. T. Ghouse Moinuddin,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
-              Paternal Grand D/O Janab <strong>T. Abdus Salaam,</strong>{" "}
+              Paternal Grand D/O Janab <strong>T. Abdul Salaam,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
               Maternal Grand D/O Janab <strong>Attar Taher Basha,</strong>{" "}
@@ -324,7 +324,7 @@ function Couple() {
               D/O <strong>Mr. & Mrs. T. Ghouse Moinuddin,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
-              Paternal Grand D/O Janab <strong>T. Abdus Salaam,</strong>{" "}
+              Paternal Grand D/O Janab <strong>T. Abdul Salaam,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
               Maternal Grand D/O Janab <strong>Attar Taher Basha,</strong>{" "}
