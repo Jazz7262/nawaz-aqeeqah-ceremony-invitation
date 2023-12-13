@@ -23,9 +23,9 @@ function Timeline() {
           <div className="content">
             <h1>Naming Ceremony</h1>
             <p>
-              On Saturday, 09<sup>th</sup> Decemeber, 2023,
+              On Sunday, 24<sup>th</sup> Decemeber, 2023,
               <br />
-              25<sup>th</sup> Jamaadil-Awaal, 1445 Hijri,
+              11<sup>th</sup> Jamaadil-Aakhir, 1445 Hijri,
               <br />
               After Namaaz -e- Zohar,
               <br />

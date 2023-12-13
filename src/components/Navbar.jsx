@@ -60,7 +60,7 @@ function Navbar() {
           data-aos="slide-right"
           data-aso-duration="1500"
         >
-          Jasra Manahil
+          Nawaz
           <FontAwesomeIcon icon={faHeart} className="icon" size="sm" />
         </a>
         <button

@@ -4,6 +4,8 @@ import "../styles/Compliments.css";
 function Compliments() {
   return (
     <section id="compliments">
+      <h1>With Best Wishes From:</h1>
+      <h5 className="mb-4">Madina Steel Center, Yemmiganur.</h5>
       <h1>With Best Compliments From:</h1>
       {/* <h5>T. Basheer Ahmed,</h5>
       <h5>Al-Haaj T. Shamshuddin Ashrafi Bhiwandi,</h5>
