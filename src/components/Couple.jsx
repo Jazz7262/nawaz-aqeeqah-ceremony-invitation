@@ -64,23 +64,26 @@ function Couple() {
                 data-slide-to="0"
                 className="active"
               ></li>
+
               <li data-target="#carouselIndicators" data-slide-to="1"></li>
               <li data-target="#carouselIndicators" data-slide-to="2"></li>
               <li data-target="#carouselIndicators" data-slide-to="3"></li>
               <li data-target="#carouselIndicators" data-slide-to="4"></li>
               <li data-target="#carouselIndicators" data-slide-to="5"></li>
-              {/*
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="6"
-                                ></li>
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="7"
-                                ></li> */}
+              <li data-target="#carouselIndicators" data-slide-to="6"></li>
+              <li data-target="#carouselIndicators" data-slide-to="7"></li>
             </ol>
             <div className="carousel-inner">
               <div className="carousel-item active">
+                <div className="img-wrapper">
+                  <img
+                    className="couple-img"
+                    src="../assets/images/nawaz-0.png"
+                    alt="couple_img"
+                  />
+                </div>
+              </div>
+              <div className="carousel-item ">
                 <div className="img-wrapper">
                   <img
                     className="couple-img"
