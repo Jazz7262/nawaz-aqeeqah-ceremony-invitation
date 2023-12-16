@@ -209,13 +209,13 @@ function Couple() {
                                 <strong>Shabeer Ahmed Sahab(Late)</strong>
                             </p> */}
             <p className="mt-1 mt-lg-2">
-              D/O Mr. & Mrs. <strong>M. Mohammed Taher Basha,</strong>{" "}
+              S/O Mr. & Mrs. <strong>M. Mohammed Taher Basha,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
-              Paternal Grand D/O Janab <strong>M. Mehboob Basha,</strong>{" "}
+              Paternal Grand S/O Janab <strong>M. Mehboob Basha,</strong>{" "}
             </p>
             <p className="mt-1 mt-lg-2">
-              Maternal Grand D/O Janab <strong>Khazi Zakeer Hussain,</strong>{" "}
+              Maternal Grand S/O Janab <strong>Khazi Zakeer Hussain,</strong>{" "}
             </p>
 
             {/* <p className="mt-1 mt-lg-2">
